@@ -16,6 +16,10 @@ If you're ready to take your gameplay to the NEXT LEVEL, dominate enemies, and e
      -esp
      -and much more (example: auto v4 , auto True Triple Katana etc...
 
+## ✨✨ **UNIVERSAL FEATURES** ✨✨   
+     -Infinite Yield
+     -more to come...
+
 ****
 
 ## 🚀🚀 **HOW TO INSTALL** 🚀🚀
