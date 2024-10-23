@@ -26,7 +26,7 @@ If you're ready to take your gameplay to the NEXT LEVEL, dominate enemies, and e
 
 1. 📥 **DOWNLOAD** the ZIP file from the release section.
 2. 🗂️ **EXTRACT** the ZIP to your chosen folder.
-3. ⚙️ **RUN** the `.exe` file in the extracted folder.
+3. ⚙️ **RUN** the `Bananix.exe` file in the extracted folder.
 4. 🕹️ **LAUNCH ROBLOX** and enter **BloxFruit**.
 5. 🎉 **ENJOY** your enhanced BloxFruit experience!
 
