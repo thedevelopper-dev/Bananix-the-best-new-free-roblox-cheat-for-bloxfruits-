@@ -5,12 +5,9 @@
 ⚡ Totally Free, Super Easy, and Guaranteed Fun! ⚡
 ✨ Features ✨
 
-     -auto grab fruits (when detected on the ground)
-     -auto farm (this cheat will automaticly detect your current lvl and do the appropriate quest)
-     -auto bounty (kills every player in the server and then server hops )
-     -auto raid
-     -esp
-     -and much more (example: auto v4 , auto True Triple Katana etc...
+    ✅ 100% Free – No hidden costs!
+    🔥 Simple and Powerful – Just download and play!
+    🎯 Boost Your BloxFruit Experience – Level up faster, explore easier, and more!
 
 🚀 How to Install 🚀
 
