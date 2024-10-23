@@ -9,9 +9,12 @@ If you're ready to take your gameplay to the NEXT LEVEL, dominate enemies, and e
 
 ## ✨✨ **FEATURES** ✨✨
 
-- ✅ **100% FREE** – No hidden fees, no tricks!
-- 🔥 **SIMPLE & POWERFUL** – Download, run, and play!
-- 🎯 **BOOST YOUR BLOXFRUIT EXPERIENCE** – Level up faster, conquer islands, and more!
+     -auto grab fruits (when detected on the ground)
+     -auto farm (this cheat will automaticly detect your current lvl and do the appropriate quest)
+     -auto bounty (kills every player in the server and then server hops )
+     -auto raid
+     -esp
+     -and much more (example: auto v4 , auto True Triple Katana etc...
 
 ****
 
